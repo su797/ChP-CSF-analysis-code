@@ -1,0 +1,5 @@
+{
+  "analysis_csv": "/path/to/ChpSTREM2AD_analysis_dataset.csv",
+  "metadata_csv": "/path/to/Data_all.csv",
+  "rscript": "Rscript"
+}

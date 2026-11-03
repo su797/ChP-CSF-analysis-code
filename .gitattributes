@@ -1,0 +1,13 @@
+* text=auto eol=lf
+*.R text eol=lf
+*.py text eol=lf
+*.lavaan text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
+*.pptx binary
+*.npy binary
